@@ -1,4 +1,4 @@
-Lab 1: Perspective Vector Display System
+# Lab 1: Perspective Vector Display System
 
 5 classes:
 1) Vector;
