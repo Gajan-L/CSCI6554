@@ -1,1 +1,1 @@
-# CSCI6554 Lab 
+# CSCI6554 Computer Graphic II Lab 
