@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1: Perspective Vector Display System
 
 This version is actually a wrong apporach. I made some modifications in Lab 2 to fix the wrong part.
 
