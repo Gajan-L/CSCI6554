@@ -1,4 +1,4 @@
-# Lab 2 Scan-convert & Z-Buffer
+# Lab 2: Scan-convert & Z-Buffer
 
 New features:
  - fixed some bugs and wrong implementations in Lab 1
